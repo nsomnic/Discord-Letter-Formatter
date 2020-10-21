@@ -1,6 +1,6 @@
 ﻿namespace Discord_Letter_Formatter
 {
-    partial class Form1
+    partial class frmDiscordFormatter
     {
         /// <summary>
         /// Required designer variable.

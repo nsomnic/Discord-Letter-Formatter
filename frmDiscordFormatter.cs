@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace Discord_Letter_Formatter
 {
-    public partial class Form1 : Form
+    public partial class frmDiscordFormatter : Form
     {
-        public Form1()
+        public frmDiscordFormatter()
         {
             InitializeComponent();
         }
